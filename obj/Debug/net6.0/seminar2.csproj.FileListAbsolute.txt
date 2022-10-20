@@ -1,0 +1,15 @@
+/Users/maria/Desktop/Project/seminar2/bin/Debug/net6.0/seminar2
+/Users/maria/Desktop/Project/seminar2/bin/Debug/net6.0/seminar2.deps.json
+/Users/maria/Desktop/Project/seminar2/bin/Debug/net6.0/seminar2.runtimeconfig.json
+/Users/maria/Desktop/Project/seminar2/bin/Debug/net6.0/seminar2.dll
+/Users/maria/Desktop/Project/seminar2/bin/Debug/net6.0/seminar2.pdb
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.csproj.AssemblyReference.cache
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.AssemblyInfoInputs.cache
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.AssemblyInfo.cs
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.dll
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/refint/seminar2.dll
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.pdb
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/seminar2.genruntimeconfig.cache
+/Users/maria/Desktop/Project/seminar2/obj/Debug/net6.0/ref/seminar2.dll
