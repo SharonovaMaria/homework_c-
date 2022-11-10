@@ -1,0 +1,15 @@
+/Users/maria/Desktop/Project/seminar4/bin/Debug/net6.0/seminar4
+/Users/maria/Desktop/Project/seminar4/bin/Debug/net6.0/seminar4.deps.json
+/Users/maria/Desktop/Project/seminar4/bin/Debug/net6.0/seminar4.runtimeconfig.json
+/Users/maria/Desktop/Project/seminar4/bin/Debug/net6.0/seminar4.dll
+/Users/maria/Desktop/Project/seminar4/bin/Debug/net6.0/seminar4.pdb
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.csproj.AssemblyReference.cache
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.AssemblyInfoInputs.cache
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.AssemblyInfo.cs
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.csproj.CoreCompileInputs.cache
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.dll
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/refint/seminar4.dll
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.pdb
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/seminar4.genruntimeconfig.cache
+/Users/maria/Desktop/Project/seminar4/obj/Debug/net6.0/ref/seminar4.dll
